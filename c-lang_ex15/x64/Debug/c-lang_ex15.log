@@ -1,0 +1,4 @@
+﻿  sample_ex4-4.c
+D:\Projects\C\c-lang\c-lang_ex15\sample_ex4-4.c(8,2): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Projects\C\c-lang\c-lang_ex15\sample_ex4-4.c(9,2): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c-lang_ex15.vcxproj -> D:\Projects\C\c-lang\x64\Debug\c-lang_ex15.exe
