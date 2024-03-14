@@ -1,0 +1,6 @@
+﻿  sample_ex5-4.c
+D:\Projects\C\c-lang\c-lang_ex19\sample_ex5-4.c(17,78): warning C4311: 'type cast': pointer truncation from 'num_data *' to 'unsigned int'
+D:\Projects\C\c-lang\c-lang_ex19\sample_ex5-4.c(17,97): warning C4311: 'type cast': pointer truncation from 'num_data *' to 'unsigned int'
+D:\Projects\C\c-lang\c-lang_ex19\sample_ex5-4.c(31,90): warning C4311: 'type cast': pointer truncation from 'num_data *' to 'unsigned int'
+D:\Projects\C\c-lang\c-lang_ex19\sample_ex5-4.c(44,90): warning C4311: 'type cast': pointer truncation from 'num_data *' to 'unsigned int'
+  c-lang_ex19.vcxproj -> D:\Projects\C\c-lang\x64\Debug\c-lang_ex19.exe
