@@ -1,26 +1,26 @@
 ﻿  sample_ex2-1.c
-D:\Projects\C\c-lang\c-lang_ex05\sample_ex2-1.c(9,9): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 2 has type 'size_t'
-  D:\Projects\C\c-lang\c-lang_ex05\sample_ex2-1.c(9,9):
+G:\Projects\C\c-lang\c-lang_ex05\sample_ex2-1.c(9,9): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 2 has type 'size_t'
+  G:\Projects\C\c-lang\c-lang_ex05\sample_ex2-1.c(9,9):
   consider using '%zd' in the format string
   
-D:\Projects\C\c-lang\c-lang_ex05\sample_ex2-1.c(9,9): warning C4477: 'printf' : format string '%x' requires an argument of type 'unsigned int', but variadic argument 3 has type 'int *'
-D:\Projects\C\c-lang\c-lang_ex05\sample_ex2-1.c(9,9): warning C4313: 'printf': '%x' in format string conflicts with argument 3 of type 'int *'
-D:\Projects\C\c-lang\c-lang_ex05\sample_ex2-1.c(10,9): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 2 has type 'size_t'
-  D:\Projects\C\c-lang\c-lang_ex05\sample_ex2-1.c(10,9):
+G:\Projects\C\c-lang\c-lang_ex05\sample_ex2-1.c(9,9): warning C4477: 'printf' : format string '%x' requires an argument of type 'unsigned int', but variadic argument 3 has type 'int *'
+G:\Projects\C\c-lang\c-lang_ex05\sample_ex2-1.c(9,9): warning C4313: 'printf': '%x' in format string conflicts with argument 3 of type 'int *'
+G:\Projects\C\c-lang\c-lang_ex05\sample_ex2-1.c(10,9): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 2 has type 'size_t'
+  G:\Projects\C\c-lang\c-lang_ex05\sample_ex2-1.c(10,9):
   consider using '%zd' in the format string
   
-D:\Projects\C\c-lang\c-lang_ex05\sample_ex2-1.c(10,9): warning C4477: 'printf' : format string '%x' requires an argument of type 'unsigned int', but variadic argument 3 has type 'double *'
-D:\Projects\C\c-lang\c-lang_ex05\sample_ex2-1.c(10,9): warning C4313: 'printf': '%x' in format string conflicts with argument 3 of type 'double *'
-D:\Projects\C\c-lang\c-lang_ex05\sample_ex2-1.c(11,9): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 2 has type 'size_t'
-  D:\Projects\C\c-lang\c-lang_ex05\sample_ex2-1.c(11,9):
+G:\Projects\C\c-lang\c-lang_ex05\sample_ex2-1.c(10,9): warning C4477: 'printf' : format string '%x' requires an argument of type 'unsigned int', but variadic argument 3 has type 'double *'
+G:\Projects\C\c-lang\c-lang_ex05\sample_ex2-1.c(10,9): warning C4313: 'printf': '%x' in format string conflicts with argument 3 of type 'double *'
+G:\Projects\C\c-lang\c-lang_ex05\sample_ex2-1.c(11,9): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 2 has type 'size_t'
+  G:\Projects\C\c-lang\c-lang_ex05\sample_ex2-1.c(11,9):
   consider using '%zd' in the format string
   
-D:\Projects\C\c-lang\c-lang_ex05\sample_ex2-1.c(11,9): warning C4477: 'printf' : format string '%x' requires an argument of type 'unsigned int', but variadic argument 3 has type 'float *'
-D:\Projects\C\c-lang\c-lang_ex05\sample_ex2-1.c(11,9): warning C4313: 'printf': '%x' in format string conflicts with argument 3 of type 'float *'
-D:\Projects\C\c-lang\c-lang_ex05\sample_ex2-1.c(12,9): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 2 has type 'size_t'
-  D:\Projects\C\c-lang\c-lang_ex05\sample_ex2-1.c(12,9):
+G:\Projects\C\c-lang\c-lang_ex05\sample_ex2-1.c(11,9): warning C4477: 'printf' : format string '%x' requires an argument of type 'unsigned int', but variadic argument 3 has type 'float *'
+G:\Projects\C\c-lang\c-lang_ex05\sample_ex2-1.c(11,9): warning C4313: 'printf': '%x' in format string conflicts with argument 3 of type 'float *'
+G:\Projects\C\c-lang\c-lang_ex05\sample_ex2-1.c(12,9): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 2 has type 'size_t'
+  G:\Projects\C\c-lang\c-lang_ex05\sample_ex2-1.c(12,9):
   consider using '%zd' in the format string
   
-D:\Projects\C\c-lang\c-lang_ex05\sample_ex2-1.c(12,9): warning C4477: 'printf' : format string '%x' requires an argument of type 'unsigned int', but variadic argument 3 has type 'char *'
-D:\Projects\C\c-lang\c-lang_ex05\sample_ex2-1.c(12,9): warning C4313: 'printf': '%x' in format string conflicts with argument 3 of type 'char *'
-  c-lang_ex05.vcxproj -> D:\Projects\C\c-lang\x64\Debug\c-lang_ex05.exe
+G:\Projects\C\c-lang\c-lang_ex05\sample_ex2-1.c(12,9): warning C4477: 'printf' : format string '%x' requires an argument of type 'unsigned int', but variadic argument 3 has type 'char *'
+G:\Projects\C\c-lang\c-lang_ex05\sample_ex2-1.c(12,9): warning C4313: 'printf': '%x' in format string conflicts with argument 3 of type 'char *'
+  c-lang_ex05.vcxproj -> G:\Projects\C\c-lang\x64\Debug\c-lang_ex05.exe

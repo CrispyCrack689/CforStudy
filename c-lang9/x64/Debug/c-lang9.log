@@ -1,4 +1,4 @@
 ﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(531,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (c-lang9.vcxproj).  This can lead to incorrect clean and rebuild behavior.
   sample3-3.c
-D:\Projects\C\c-lang\c-lang9\sample3-3.c(8,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
-  c-lang9.vcxproj -> D:\Projects\C\c-lang\x64\Debug\c-lang09.exe
+G:\Projects\C\c-lang\c-lang9\sample3-3.c(8,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c-lang9.vcxproj -> G:\Projects\C\c-lang\x64\Debug\c-lang09.exe

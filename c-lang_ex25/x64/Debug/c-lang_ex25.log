@@ -1,0 +1,4 @@
+﻿  sample_ex7-1.c
+G:\Projects\C\c-lang\c-lang_ex25\sample_ex7-1.c(70,3): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+G:\Projects\C\c-lang\c-lang_ex25\sample_ex7-1.c(83,3): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c-lang_ex25.vcxproj -> G:\Projects\C\c-lang\x64\Debug\c-lang_ex25.exe
